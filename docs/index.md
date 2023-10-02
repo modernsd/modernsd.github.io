@@ -1,12 +1,10 @@
-#
+# Современная разработка ПО
 
-## Современная разработка ПО
+## Телеграм-канал:
 
-### Телеграм-канал:
+[Телеграм-канал](https://t.me/modernsd)
 
-[Телеграм-канал] (https://t.me/modernsd)
-
-### Люди:
+## Люди:
 
 - [Олег Сорока](https://github.com/40a)
 - [Виктор Фабриченко](https://github.com/vfabr)
@@ -18,7 +16,7 @@
 - [Вячеслав Ковалев](https://github.com/materkey)
 - [Вячеслав Слинько](https://github.com/vslinko)
 
-### Контент:
+## Контент:
 
 - [2021-02-10 — Встреча №1 — Олег Сорока и Виктор Фабриченко "Научный подход к менеджменту"](https://github.com/modernsd/works/blob/master/notes/2021-02-10.md)
 - [2021-02-16 — Встреча №2](https://github.com/modernsd/works/blob/master/notes/2021-02-16.md)
