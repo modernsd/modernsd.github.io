@@ -2,4 +2,4 @@ title: homepage
 description: Bookmark this to keep an eye on project updates!
 plugins:
 - jekyll-remote-theme
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/minimal
