@@ -2,11 +2,20 @@ site_name: Modern Software Development
 site_url: https://www.modernsd.org
 theme:
   name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    # - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
 plugins:
   - search
   - open-in-new-tab
 # nav:
 #   - 'Home': 'index.md'
 #   - 'О нас': 'about.md'
-#   - 'Контент': 'content/'
-#     -
+#   - 'Контент':
+#     - 'Регулярные встречи': 'content/meetings/'
+#     - 'Прочее': 'content/other/'
+
