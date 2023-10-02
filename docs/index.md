@@ -17,5 +17,5 @@
 - [Вячеслав Слинько](https://github.com/vslinko)
 
 ## Контент
-- [Записи регулярных встреч](content/meetings/)
-- [Прочее](content/other)
+- [Записи регулярных встреч](content/meetings/index.md)
+- [Прочее](content/other/index.md)
