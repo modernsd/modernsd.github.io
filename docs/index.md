@@ -20,10 +20,6 @@
 
 ### Контент:
 
-[Контент](https://github.com/modernsd/works)
-
-# Современная разработка ПО
-
 - [2021-02-10 — Встреча №1 — Олег Сорока и Виктор Фабриченко "Научный подход к менеджменту"](https://github.com/modernsd/works/notes/2021-02-10.md)
 - [2021-02-16 — Встреча №2](https://github.com/modernsd/works/notes/2021-02-16.md)
 - [2021-02-23 — Встреча №3](https://github.com/modernsd/works/notes/2021-02-23.md)
