@@ -1,0 +1,9 @@
+{
+    "yaml.schemas": {
+        "https://squidfunk.github.io/mkdocs-material/schema.json": [
+            "mkdocs.yml",
+            "file:///Users/Oleg_Soroka/git/modernsd/modernsd.github.io/mkdocs.yml"
+        ],
+        "file:///Users/Oleg_Soroka/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
+    }
+}
