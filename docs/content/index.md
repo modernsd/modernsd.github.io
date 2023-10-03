@@ -1,5 +1,8 @@
 ---
-title: Контент 
+title: Контент
+hide:
+#   - navigation
+  - toc
 ---
 
 # Контент:

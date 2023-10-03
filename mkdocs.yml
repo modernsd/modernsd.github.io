@@ -6,6 +6,8 @@ theme:
   # custom_dir: overrides
   # theme_dir: overrides
   language: ru
+  logo: img/modern_agile_wheel_english.svg
+  favicon: img/modern_agile_wheel_english.svg
   features:
     # - announce.dismiss
     # - content.action.edit
@@ -21,11 +23,11 @@ theme:
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
-    # - navigation.path
+    - navigation.path
     # - navigation.prune
     - navigation.sections
     - navigation.indexes
-    # - navigation.tabs
+    - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     # - navigation.tracking
