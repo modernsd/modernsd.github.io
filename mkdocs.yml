@@ -3,28 +3,31 @@ site_url: https://www.modernsd.org/
 
 theme:
   name: material
+  custom_dir: overrides
+  language: ru
   features:
-    - announce.dismiss
+    # - announce.dismiss
     # - content.action.edit
     # - content.action.view
     # - content.code.annotate
     # - content.code.copy
     # - content.code.select
     # - content.tabs.link
-    - content.tooltips
+    # - content.tooltips
     # - header.autohide
-    - navigation.expand
-    - navigation.footer
-    - navigation.indexes
+    # - navigation.expand
+    # - navigation.footer
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
+    - navigation.path
     - navigation.prune
     - navigation.sections
+    # - navigation.indexes
     # - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
+    # - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
@@ -48,13 +51,25 @@ theme:
     code: Roboto Mono
 
 extra:
+  generator: false
   social:
-    - icon: fontawesome/brands/github
+    - icon: simple/github
       link: https://github.com/modernsd
+      name: Modern Software Development
+
+copyright: "Copyright &copy; 2016-2023 Modern Software Development"
 
 plugins:
   - search
   - open-in-new-tab
+
+nav:
+  - 'Home': 'index.md'
+  - 'Контент':
+      # - 'content/index.md'
+      - 'Записи регулярных встреч': content/meetings/index.md
+      - 'Прочее': 'content/other/index.md'
+  - 'Наши партнеры': 'partners/index.md'
 
 # nav:
 #   - 'Home': 'index.md'

@@ -1,10 +1,10 @@
 # Современная разработка ПО
 
-## Телеграм-канал:
+## Телеграм-канал
 
 [https://t.me/modernsd](https://t.me/modernsd)
 
-## Люди:
+## Люди
 
 - [Олег Сорока](https://github.com/40a)
 - [Виктор Фабриченко](https://github.com/vfabr)
