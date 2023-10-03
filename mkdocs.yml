@@ -38,14 +38,14 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: indigo
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -86,10 +86,3 @@ markdown_extensions:
 #       - 'Записи регулярных встреч': 'content/meetings/index.md'
 #       - 'Прочее': 'content/other/index.md'
 #   - 'Наши партнеры': 'partners/index.md'
-
-# nav:
-#   - 'Home': 'index.md'
-#   - 'О нас': 'about.md'
-#   - 'Контент':
-#     - 'Регулярные встречи': 'content/meetings/'
-#     - 'Прочее': 'content/other/'
