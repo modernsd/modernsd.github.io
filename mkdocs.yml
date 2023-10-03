@@ -4,6 +4,7 @@ site_url: https://www.modernsd.org/
 theme:
   name: material
   custom_dir: overrides
+  theme_dir: overrides
   language: ru
   features:
     # - announce.dismiss
