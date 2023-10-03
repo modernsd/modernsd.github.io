@@ -1,7 +1,7 @@
 # Современная разработка ПО
 
 - [Телеграм-канал](https://t.me/modernsd)
-- [Контент](https://github.com/modernsd/works)
+- [Контент](docs/content/index.md)
 
 ### Люди:
 - [Олег Сорока](https://github.com/40a)
