@@ -19,3 +19,5 @@
 ## Контент
 - [Записи регулярных встреч](content/meetings/index.md)
 - [Прочее](content/other/index.md)
+
+## [Наши партнёры](partners/index.md)
