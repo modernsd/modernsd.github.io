@@ -72,10 +72,10 @@ plugins:
       blog_toc: true
       # post_dir: "{blog}/posts"
       post_url_format: "{slug}"
-      post_url_max_categories: 5
+      post_url_max_categories: 10
       post_slugify_separator: "-"
-      post_excerpt_max_authors: 5
-      post_excerpt_max_categories: 5
+      post_excerpt_max_authors: 10
+      post_excerpt_max_categories: 10
       post_excerpt_separator: <!-- more -->
       post_readtime: false
       # post_readtime_words_per_minute: 265
@@ -85,7 +85,18 @@ plugins:
       categories: true
       categories_name: Разделы
       categories_slugify_separator: "-"
+      categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
       categories_toc: true
+      # categories_allowed:
+      #   - Встречи
+      #   - Дебаты
+      #   - Прочее
+      #   - Victor Fabrichenko
+      #   - Vladimir Sharovatov
+      #   - Oleg Soroka
+      #   - Phillip Delgyado
       pagination: true
       pagination_per_page: 25
       pagination_keep_content: true
@@ -96,9 +107,9 @@ plugins:
       # draft: false
       # draft_on_serve: true
       # draft_if_future_date: false
-      # post_slugify: !!python/object/apply:pymdownx.slugs.slugify
-      #   kwds:
-      #     case: lower
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - open-in-new-tab
   - search
   - tags:
@@ -111,7 +122,7 @@ markdown_extensions:
   # - def_list           # Adds syntax for definition lists
   # - sane_lists         # Enables list items with multiple paragraphs
   - toc:               # Builds a table of contents 
-      permalink: "#"   # Puts a "#" at the end of each header, which copies a link to that header when clicked
+      permalink: "*"   # Puts a "#" at the end of each header, which copies a link to that header when clicked
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
