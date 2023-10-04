@@ -122,7 +122,7 @@ markdown_extensions:
   # - def_list           # Adds syntax for definition lists
   # - sane_lists         # Enables list items with multiple paragraphs
   - toc:               # Builds a table of contents 
-      permalink: "*"   # Puts a "#" at the end of each header, which copies a link to that header when clicked
+      permalink: true  # Puts a "#" at the end of each header, which copies a link to that header when clicked
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
