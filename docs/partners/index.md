@@ -1,3 +1,9 @@
+---
+title: Наши партнёры
+# hide:
+#   - navigation
+#   - toc
+---
 # Наши партнёры
 
 ## Thought Leaders
