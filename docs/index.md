@@ -1,4 +1,10 @@
-# О нас
+---
+title: About
+hide:
+#   - navigation
+  - toc
+---
+# Modern Software Development
 
 ## [:fontawesome-brands-telegram: Наш телеграм-канал](https://t.me/modernsd)
 
