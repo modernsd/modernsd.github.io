@@ -2,7 +2,8 @@ site_name: "Modern Software Development"
 site_url: https://www.modernsd.org/
 site_description: "Modern Software Development"
 copyright: "Copyright &copy; 2016-2023 Modern Software Development"
-
+exclude_docs: |
+  *.md1
 theme:
   name: material
   # custom_dir: overrides
@@ -83,10 +84,10 @@ plugins:
       post_readtime: false
       # post_readtime_words_per_minute: 265
       archive: true
-      archive_name: Записи встреч
+      archive_name: 'Записи встреч'
       archive_toc: true
       categories: true
-      categories_name: Разделы
+      categories_name: 'Разделы'
       categories_slugify_separator: "-"
       categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
@@ -97,7 +98,7 @@ plugins:
       #   - Дебаты
       #   - Прочее
       #   - Victor Fabrichenko
-      #   - Vladimir Sharovatov
+      #   - Vitaly Sharovatov
       #   - Oleg Soroka
       #   - Phillip Delgyado
       pagination: true
