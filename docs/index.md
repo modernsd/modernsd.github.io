@@ -8,7 +8,7 @@ hide:
 
 ## [:simple-telegram: Наш телеграм-канал](https://t.me/modernsd)
 
-## ‣ Участники:
+## :fontawesome-solid-people-group: Участники:
 
 - Андрей Бутов:
     ∙ [:simple-github:](https://github.com/abtv)
@@ -41,8 +41,6 @@ hide:
     ∙ [:simple-youtube:](https://www.youtube.com/results?search_query=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF+%D0%94%D0%B5%D0%BB%D1%8C%D0%B3%D1%8F%D0%B4%D0%BE)
 
 
-<!-- ## Контент -->
-## ‣ [Записи встреч](content/index.md)
-<!-- * ### [Прочее](other/index.md1) -->
+## [:simple-podcastindex: Записи встреч](content/index.md)
 
-## ‣ [Наши партнёры](partners/index.md)
+## [:fontawesome-solid-handshake: Наши партнёры](partners/index.md)
