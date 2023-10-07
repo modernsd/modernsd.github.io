@@ -56,6 +56,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  # icon:
+  #   admonition:
+  #     info: fontawesome/solid-people-group
 
 extra:
   generator: false
@@ -116,16 +119,17 @@ plugins:
       tags_file: content/tags.md
 
 markdown_extensions:
-  # - admonition
+  - admonition
   - attr_list
   # - codehilite         # Syntax coloring for code blocks
-  # - def_list           # Adds syntax for definition lists
+  - def_list           # Adds syntax for definition lists
   # - sane_lists         # Enables list items with multiple paragraphs
-  - toc:               # Builds a table of contents 
-      permalink: true  # Puts a "#" at the end of each header, which copies a link to that header when clicked
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:               # Builds a table of contents 
+      permalink: true  # Puts a "#" at the end of each header, which copies a link to that header when clicked
 
 
 nav:
