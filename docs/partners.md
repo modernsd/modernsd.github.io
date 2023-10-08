@@ -9,13 +9,15 @@ hide:
 ## ‣ Thought Leaders
 
 - [**Allen Holub:**](https://holub.com/)
-    [:simple-twitter:](https://twitter.com/allenholub)
-    [:simple-youtube:](https://www.youtube.com/@AllenHolub)
-    [:simple-linkedin:](https://www.linkedin.com/in/allenholub/)
+    ∙ [:simple-twitter:](https://twitter.com/allenholub)
+    ∙ [:simple-youtube:](https://www.youtube.com/@AllenHolub)
+    ∙ [:simple-linkedin:](https://www.linkedin.com/in/allenholub/)
+    ∙
 - [**Dave Farley:**](https://www.davefarley.net/)
-    [:simple-twitter:](https://twitter.com/davefarley77) 
-    [:simple-youtube:](https://www.youtube.com/@ContinuousDelivery)
-    [:simple-linkedin:](https://www.linkedin.com/in/dave-farley-a67927/)
+    ∙ [:simple-twitter:](https://twitter.com/davefarley77) 
+    ∙ [:simple-youtube:](https://www.youtube.com/@ContinuousDelivery)
+    ∙ [:simple-linkedin:](https://www.linkedin.com/in/dave-farley-a67927/)
+    ∙
 
 ## ‣ Scaled Agile Frameworks
 
