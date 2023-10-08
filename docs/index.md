@@ -13,18 +13,7 @@ hide:
 ## [:simple-podcastindex: Записи встреч](content/index.md)
 
 ## [:fontawesome-solid-handshake: Наши партнёры](partners.md)
-<!-- 
-|<h1>О нас</h1>||||
-|-|-|-|-|
-|<h3>[:simple-telegram: Наш телеграм](https://t.me/modernsd)</h1> | <h3>[:fontawesome-solid-people-group: Участники](people.md)</h3> | <h3>[:simple-podcastindex: Записи встреч](content/index.md)</h3> | <h3>[:fontawesome-solid-handshake: Наши партнёры](partners.md)</h3> |
 
-|<h1>О нас</h1>|
-|:-:|
-| <h3>[:simple-telegram: Наш телеграм](https://t.me/modernsd)</h1>    |
-| <h3>[:fontawesome-solid-people-group: Участники](people.md)</h3>     |
-| <h3>[:simple-podcastindex: Записи встреч](content/index.md)</h3>    |
-| <h3>[:fontawesome-solid-handshake: Наши партнёры](partners.md)</h3> | -->
-<!-- ## [:fontawesome-solid-people-group: Участники](people.md) -->
 ## :fontawesome-solid-people-group: Участники:
 ??? note "Андрей Бутов"
     <h3>
@@ -80,10 +69,3 @@ hide:
     • [:simple-youtube: Филипп Дельгядо](https://www.youtube.com/results?search_query=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF+%D0%94%D0%B5%D0%BB%D1%8C%D0%B3%D1%8F%D0%B4%D0%BE)
     </h3>
 </center>
-
-
-<!-- ??? note "Филипп Дельгядо"
-    |<h3>[:simple-github:](https://github.com/phillip-delgyado)</h3>|<h3>[:simple-youtube:](https://www.youtube.com/results?search_query=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF+%D0%94%D0%B5%D0%BB%D1%8C%D0%B3%D1%8F%D0%B4%D0%BE)</h3>|
-    |:-|:-|
-    |<h3>[phillip-delgyado](https://github.com/phillip-delgyado)</h3> | <h3>[Филипп Дельгядо](https://www.youtube.com/results?search_query=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF+%D0%94%D0%B5%D0%BB%D1%8C%D0%B3%D1%8F%D0%B4%D0%BE)</h3> | -->
-    

@@ -147,6 +147,6 @@ markdown_extensions:
 
 nav:
   - 'О нас': 'index.md'
-  - 'Участники': 'people.md'
-  - ...
   - 'Наши партнеры': 'partners.md'
+  - ...
+  # - 'Участники': 'people.md'
