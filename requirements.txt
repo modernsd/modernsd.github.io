@@ -2,3 +2,4 @@ mkdocs
 mkdocs-material
 mkdocs-material-extensions
 mkdocs-open-in-new-tab
+mkdocs-awesome-pages-plugin

@@ -70,6 +70,7 @@ extra:
 
 plugins:
   # - meta
+  - awesome-pages
   - blog:
       enabled: true
       blog_dir: content
@@ -84,7 +85,7 @@ plugins:
       post_readtime: false
       # post_readtime_words_per_minute: 265
       archive: true
-      archive_name: 'Записи встреч'
+      archive_name: 'Архив'
       archive_toc: true
       categories: true
       categories_name: 'Разделы'
@@ -134,8 +135,7 @@ markdown_extensions:
 
 
 nav:
-#   - 'Home': 'index.md'
-#   - 'Записи встреч': 'content/'
-#   - 'Прочее': 'other/index.md'
-#   - 'Наши партнеры': 'partners/index.md'
-
+  - 'О нас': 'index.md'
+  - 'Участники': 'people.md'
+  - ...
+  - 'Наши партнеры': 'partners.md'
