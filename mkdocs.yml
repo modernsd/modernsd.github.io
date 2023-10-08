@@ -4,6 +4,8 @@ site_description: "Modern Software Development"
 copyright: "Copyright &copy; 2016-2023 Modern Software Development"
 exclude_docs: |
   *.md1
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   # custom_dir: overrides
@@ -23,9 +25,7 @@ theme:
     # - header.autohide
     - navigation.expand
     # - navigation.footer
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
+    - navigation.instant
     # - navigation.path
     # - navigation.prune
     - navigation.sections
@@ -131,13 +131,16 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  # - md_in_html
   # - codehilite         # Syntax coloring for code blocks
   - def_list           # Adds syntax for definition lists
+  # - nl2br
   # - sane_lists         # Enables list items with multiple paragraphs
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # - tables
   - toc:               # Builds a table of contents 
       permalink: true  # Puts a "#" at the end of each header, which copies a link to that header when clicked
 
