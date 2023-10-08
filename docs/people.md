@@ -35,13 +35,3 @@ hide:
 ??? note "Филипп Дельгядо:"
     - [:simple-github: phillip-delgyado](https://github.com/phillip-delgyado)
     - [:simple-youtube: Филипп Дельгядо](https://www.youtube.com/results?search_query=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF+%D0%94%D0%B5%D0%BB%D1%8C%D0%B3%D1%8F%D0%B4%D0%BE)
-
-<!-- `Lorem ipsum dolor sit amet`
-
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis.
-
-`Cras arcu libero`
-
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante. -->
