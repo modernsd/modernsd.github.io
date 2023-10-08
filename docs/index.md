@@ -51,7 +51,7 @@ hide:
     ![](https://avatars.githubusercontent.com/u/2872741)  
     [:simple-github: vanadium23](https://github.com/vanadium23)
     </h3>
-!!! note "Лиза Царева"
+!!! note "Лиза Царева&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 ??? note "Олег Сорока"
     <h3>
     ![](https://avatars.githubusercontent.com/u/1663840)  
