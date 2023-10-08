@@ -55,7 +55,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Roboto
+    text: Roboto Flex
+    # text: M PLUS 1p
     code: Roboto Mono
   # icon:
   #   admonition:
