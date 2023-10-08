@@ -9,7 +9,7 @@ hide:
 
 ## [:simple-telegram: Наш телеграм-канал](https://t.me/modernsd)
 
-## [:fontawesome-solid-people-group: Участники:](people.md)
+## [:fontawesome-solid-people-group: Участники](people.md)
 
 ## [:simple-podcastindex: Записи встреч](content/index.md)
 
