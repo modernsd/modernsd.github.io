@@ -41,7 +41,8 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      # primary: indigo
+    # - scheme: youtube
+      # primary: blue
       primary: custom
       # accent: blue
       accent: deep orange
