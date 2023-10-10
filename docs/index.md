@@ -15,18 +15,18 @@ hide:
 ## [:fontawesome-solid-handshake: Наши партнёры](partners.md)
 
 ## :fontawesome-solid-people-group: Участники:
-??? note "Андрей Бутов"
+??? people "Андрей Бутов"
     <h3>
     ![](https://avatars.githubusercontent.com/u/7084666)  
     [:simple-github: abtv](https://github.com/abtv)
     </h3>
-??? note "Виктор Фабриченко"
+??? people "Виктор Фабриченко"
     <h3>
     ![](https://avatars.githubusercontent.com/u/7291638)  
     [:simple-github: vfabr](https://github.com/vfabr)
     • [:simple-youtube: Виктор Фабриченко](https://www.youtube.com/results?search_query=%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80+%D0%A4%D0%B0%D0%B1%D1%80%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)
     </h3>
-??? note "Виталий Шароватов"
+??? people "Виталий Шароватов"
     <h3>
     ![](https://avatars.githubusercontent.com/u/1388600)  
     [:simple-github: sharovatov](https://github.com/sharovatov)
@@ -36,23 +36,23 @@ hide:
     • [:simple-telegram: vitaly19842](http://t.me/vitaly19842)
     • [:fontawesome-solid-paper-plane: Шароватов](https://t.me/vsharovatov)
     </h3> 
-??? note "Вячеслав Ковалев"
+??? people "Вячеслав Ковалев"
     <h3>
     ![](https://avatars.githubusercontent.com/u/17577010)  
     [:simple-github: materkey](https://github.com/materkey)
     </h3>
-??? note "Вячеслав Слинько"
+??? people "Вячеслав Слинько"
     <h3>
     ![](https://avatars.githubusercontent.com/u/205823)  
     [:simple-github: vslinko](https://github.com/vslinko)
     </h3>
-??? note "Иван Чернов"
+??? people "Иван Чернов"
     <h3>
     ![](https://avatars.githubusercontent.com/u/2872741)  
     [:simple-github: vanadium23](https://github.com/vanadium23)
     </h3>
-!!! note "Лиза Царева&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-??? note "Олег Сорока"
+!!! people "Лиза Царева&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+??? people "Олег Сорока"
     <h3>
     ![](https://avatars.githubusercontent.com/u/1663840)  
     [:simple-github: 40a](https://github.com/40a)
@@ -62,7 +62,7 @@ hide:
     • [:simple-telegram: oleg40a](https://t.me/oleg40a)
     • [:fontawesome-solid-paper-plane: modernsd](https://t.me/modernsd)
     </h3>
-??? note "Филипп Дельгядо"
+??? people "Филипп Дельгядо"
     <h3>
     ![](https://avatars.githubusercontent.com/u/82216825)  
     [:simple-github: phillip-delgyado](https://github.com/phillip-delgyado)
