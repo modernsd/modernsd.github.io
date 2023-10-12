@@ -101,6 +101,9 @@ h2 {
 }
 
 .md-header--shadow {
-    /* background: radial-gradient(at center, var(--md-primary-fg-color), var(--md-code-hl-constant-color)); */ 
+    background: -moz-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
+    background: -ms-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
+    background: -o-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
+    background: -webkit-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
     background: linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
 }
