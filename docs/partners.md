@@ -6,7 +6,9 @@ hide:
 ---
 # Наши партнёры
 
+<center>
 ## ‣ Thought Leaders
+</center>
 
 - [**Allen Holub:**](https://holub.com/)
     ∙ [:simple-twitter:](https://twitter.com/allenholub)
@@ -19,7 +21,9 @@ hide:
     ∙ [:simple-linkedin:](https://www.linkedin.com/in/dave-farley-a67927/)
     ∙
 
+<center>
 ## ‣ Scaled Agile Frameworks
+</center>
 
 - [GOVNO](https://govno.works/) - is a novel approach to project management that aims to improve upon the shortcomings of the popular SCRUM methodology.
 - [SAD MF](https://scaledagiledevops.com/) - SCALED AGILE DEVOPS MATURITY FRAMEWORK: Enterprise transformation without the risk of culture change. Stop thinkig and get certified now, if you want to be [SAD AF](https://scaledagiledevops.com/certifications/#scaled-agile-dev-ops-accredited-facilitators)!
