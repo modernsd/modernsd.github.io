@@ -101,9 +101,9 @@ h2 {
 }
 
 .md-header--shadow {
-    background: -moz-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
+    /* background: -moz-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
     background: -ms-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
     background: -o-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
-    background: -webkit-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
-    background: linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
+    background: -webkit-linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color)); */
+    background-image: linear-gradient(to right, var(--md-code-hl-special-color), var(--md-primary-fg-color));
 }
