@@ -42,8 +42,8 @@ hide:
 
 - [**Martin Fowler:**](https://martinfowler.com/)
     ∙ [:simple-twitter:](https://twitter.com/martinfowler)
+    ∙ [:simple-youtube:](https://www.youtube.com/results?search_query=Martin+Fowler)
     ∙ [:simple-wikipedia:](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer))
-    ∙ [:simple-linkedin:](https://www.linkedin.com/in/kevlin/)
     ∙
 
 <center>
