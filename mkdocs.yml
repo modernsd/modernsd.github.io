@@ -132,7 +132,7 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
-  # - md_in_html
+  - md_in_html
   # - codehilite         # Syntax coloring for code blocks
   - def_list           # Adds syntax for definition lists
   # - nl2br
