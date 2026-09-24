@@ -11,37 +11,37 @@ hide:
 </center>
 
 - [**Allen Holub     :**](https://holub.com/)
-    ∙ [:simple-twitter:](https://twitter.com/allenholub)
+    ∙ [:simple-x:](https://x.com/allenholub)
     ∙ [:simple-youtube:](https://www.youtube.com/@AllenHolub)
     ∙ [:simple-linkedin:](https://www.linkedin.com/in/allenholub/)
     ∙
 
 - [**Dave Farley     :**](https://www.davefarley.net/)
-    ∙ [:simple-twitter:](https://twitter.com/davefarley77)
+    ∙ [:simple-x:](https://x.com/davefarley77)
     ∙ [:simple-youtube:](https://www.youtube.com/@ContinuousDelivery)
     ∙ [:simple-linkedin:](https://www.linkedin.com/in/dave-farley-a67927/)
     ∙
 
 - [**Jez Humble    :**](https://jezhumble.net/)
-    ∙ [:simple-twitter:](https://twitter.com/jezhumble)
+    ∙ [:simple-x:](https://x.com/jezhumble)
     ∙ [:simple-youtube:](https://www.youtube.com/c/JezHumble)
     ∙ [:simple-linkedin:](https://www.linkedin.com/in/jez-humble/)
     ∙
 
 - [**Dan North       :**](https://dannorth.net/)
-    ∙ [:simple-twitter:](https://twitter.com/tastapod)
+    ∙ [:simple-x:](https://x.com/tastapod)
     ∙ [:simple-youtube:](https://www.youtube.com/results?search_query=Dan+North)
     ∙ [:simple-linkedin:](https://www.linkedin.com/in/DanielTerhorstNorth/)
     ∙
 
 - [**Kevlin Henney:**](https://about.me/kevlin)
-    ∙ [:simple-twitter:](https://twitter.com/KevlinHenney)
+    ∙ [:simple-x:](https://x.com/KevlinHenney)
     ∙ [:simple-youtube:](https://www.youtube.com/playlist?list=PL6wxfKvkNqRugfIiKKgRXa_0wKIQW_ZEH)
     ∙ [:simple-linkedin:](https://www.linkedin.com/in/kevlin/)
     ∙
 
 - [**Martin Fowler:**](https://martinfowler.com/)
-    ∙ [:simple-twitter:](https://twitter.com/martinfowler)
+    ∙ [:simple-x:](https://x.com/martinfowler)
     ∙ [:simple-youtube:](https://www.youtube.com/results?search_query=Martin+Fowler)
     ∙ [:simple-wikipedia:](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer))
     ∙
