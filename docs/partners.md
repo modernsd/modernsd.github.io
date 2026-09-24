@@ -6,38 +6,38 @@ hide:
 ---
 # Наши партнёры
 
-<center>
+<div align="center" markdown="1">
 ## ‣ Thought Leaders
-</center>
+</div>
 
 - [**Allen Holub     :**](https://holub.com/)
     ∙ [:simple-x:](https://x.com/allenholub)
     ∙ [:simple-youtube:](https://www.youtube.com/@AllenHolub)
-    ∙ [:simple-linkedin:](https://www.linkedin.com/in/allenholub/)
+    ∙ [:material-linkedin:](https://www.linkedin.com/in/allenholub/)
     ∙
 
 - [**Dave Farley     :**](https://www.davefarley.net/)
     ∙ [:simple-x:](https://x.com/davefarley77)
     ∙ [:simple-youtube:](https://www.youtube.com/@ContinuousDelivery)
-    ∙ [:simple-linkedin:](https://www.linkedin.com/in/dave-farley-a67927/)
+    ∙ [:material-linkedin:](https://www.linkedin.com/in/dave-farley-a67927/)
     ∙
 
 - [**Jez Humble    :**](https://jezhumble.net/)
     ∙ [:simple-x:](https://x.com/jezhumble)
     ∙ [:simple-youtube:](https://www.youtube.com/c/JezHumble)
-    ∙ [:simple-linkedin:](https://www.linkedin.com/in/jez-humble/)
+    ∙ [:material-linkedin:](https://www.linkedin.com/in/jez-humble/)
     ∙
 
 - [**Dan North       :**](https://dannorth.net/)
     ∙ [:simple-x:](https://x.com/tastapod)
     ∙ [:simple-youtube:](https://www.youtube.com/results?search_query=Dan+North)
-    ∙ [:simple-linkedin:](https://www.linkedin.com/in/DanielTerhorstNorth/)
+    ∙ [:material-linkedin:](https://www.linkedin.com/in/DanielTerhorstNorth/)
     ∙
 
 - [**Kevlin Henney:**](https://about.me/kevlin)
     ∙ [:simple-x:](https://x.com/KevlinHenney)
     ∙ [:simple-youtube:](https://www.youtube.com/playlist?list=PL6wxfKvkNqRugfIiKKgRXa_0wKIQW_ZEH)
-    ∙ [:simple-linkedin:](https://www.linkedin.com/in/kevlin/)
+    ∙ [:material-linkedin:](https://www.linkedin.com/in/kevlin/)
     ∙
 
 - [**Martin Fowler:**](https://martinfowler.com/)
@@ -46,9 +46,9 @@ hide:
     ∙ [:simple-wikipedia:](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer))
     ∙
 
-<center>
+<div align="center" markdown="1">
 ## ‣ Scaled Agile Frameworks
-</center>
+</div>
 
 - [GOVNO](https://govno.works/) - is a novel approach to project management that aims to improve upon the shortcomings of the popular SCRUM methodology.
 - [SAD MF](https://scaledagiledevops.com/) - SCALED AGILE DEVOPS MATURITY FRAMEWORK: Enterprise transformation without the risk of culture change. Stop thinkig and get certified now, if you want to be [SAD AF](https://scaledagiledevops.com/certifications/#scaled-agile-dev-ops-accredited-facilitators)!

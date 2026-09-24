@@ -4,6 +4,7 @@ hide:
   - toc
   # - title
 ---
+
 <div align="center" markdown="1">
 
 # Modern Software Development
@@ -32,7 +33,7 @@ hide:
     [:simple-github: sharovatov](https://github.com/sharovatov)
     • [:simple-x: vsharovatov1](https://x.com/vsharovatov1)
     • [:simple-youtube: Vitaly Sharovatov](https://youtube.com/playlist?list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY&si=dbmZRCN0Fdpwlcm0)
-    • [:simple-linkedin: vsharovatov](https://www.linkedin.com/in/vsharovatov/)
+    • [:material-linkedin: vsharovatov](https://www.linkedin.com/in/vsharovatov/)
     • [:simple-telegram: vitaly19842](http://t.me/vitaly19842)
     • [:fontawesome-solid-paper-plane: Шароватов](https://t.me/vsharovatov)
     </h3> 
@@ -58,7 +59,7 @@ hide:
     [:simple-github: 40a](https://github.com/40a)
     • [:simple-x: oleg40a](https://x.com/oleg40a)
     • [:simple-youtube: Playlist](https://www.youtube.com/playlist?list=PL4vA46bkT2dJSWqHJEWIo3BbXaZERH7cn)
-    • [:simple-linkedin: olegsoroka](https://www.linkedin.com/in/olegsoroka/)
+    • [:material-linkedin: olegsoroka](https://www.linkedin.com/in/olegsoroka/)
     • [:simple-telegram: oleg40a](https://t.me/oleg40a)
     • [:fontawesome-solid-paper-plane: modernsd](https://t.me/modernsd)
     </h3>
