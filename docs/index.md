@@ -5,6 +5,7 @@ hide:
   # - title
 ---
 <center>
+
 # Modern Software Development
 
 ## [:simple-telegram: Наш телеграм](https://t.me/modernsd)
