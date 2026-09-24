@@ -4,7 +4,7 @@ hide:
   - toc
   # - title
 ---
-<center>
+<div align="center" markdown="1">
 
 # Modern Software Development
 
@@ -68,4 +68,5 @@ hide:
     [:simple-github: phillip-delgyado](https://github.com/phillip-delgyado)
     • [:simple-youtube: Филипп Дельгядо](https://www.youtube.com/results?search_query=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF+%D0%94%D0%B5%D0%BB%D1%8C%D0%B3%D1%8F%D0%B4%D0%BE)
     </h3>
-</center>
+
+</div>
